@@ -7,7 +7,9 @@
       <a href="/">About</a>
     </li>
     <li>
-      <a href="https://zainsci.dev" target="_blank">Portfolio</a>
+      <a href="https://zainsci.dev" target="_blank" rel="noopener noreferrer"
+        >Portfolio</a
+      >
     </li>
   </ul>
 </header>

@@ -1,5 +1,9 @@
 <footer>
-  「 Made by <a href="https://zainsci.dev" target="_blank">Zain Shabbir</a> 」
+  「 Made by <a
+    href="https://zainsci.dev"
+    target="_blank"
+    rel="noopener noreferrer">Zain Shabbir</a
+  > 」
 </footer>
 
 <style>
