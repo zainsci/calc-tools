@@ -3,13 +3,13 @@
 const CACHE_NAME = "calc-tools-cache";
 // Cache Files
 const FILES_TO_CACHE = [
-  "/calc-tools/index.html",
-  "/calc-tools/global.css",
-  "/calc-tools/favicon.ico",
-  "/calc-tools/build/bundle.js",
-  "/calc-tools/build/bundle.css",
-  "/calc-tools/icons/android-chrome-192x192.png",
-  "/calc-tools/icons/android-chrome-512x512.png",
+  "index.html",
+  "global.css",
+  "favicon.ico",
+  "build/bundle.js",
+  "build/bundle.css",
+  "icons/android-chrome-192x192.png",
+  "icons/android-chrome-512x512.png",
 ];
 
 self.addEventListener("install", (e) => {
