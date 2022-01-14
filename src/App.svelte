@@ -4,7 +4,7 @@
   import Footer from "./Footer.svelte";
 
   if ("serviceWorker" in navigator) {
-    navigator.serviceWorker.register("./service-worker.js");
+    navigator.serviceWorker.register("/calc-tools/service-worker.js");
   }
 </script>
 
