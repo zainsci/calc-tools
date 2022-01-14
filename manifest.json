@@ -1,7 +1,7 @@
 {
   "name": "Soft Rope Bags",
   "short_name": "Tools For Soft Rope Bags",
-  "start_url": "https://v1.zainsci.dev/calc-tools/",
+  "start_url": "/calc-tools/",
   "icons": [
     {
       "src": "icons/android-chrome-192x192.png",
